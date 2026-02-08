@@ -2,8 +2,6 @@
 
 A modern, responsive portfolio website built with Django featuring a sleek dark theme with glassmorphism effects.
 
-![Portfolio Screenshot](portfolio/static/pradyumna.png)
-
 ## ✨ Features
 
 - **Modern Dark Theme** - Premium aesthetic with purple/blue gradient accents
